@@ -4,7 +4,8 @@ Here’s a walkthrough of AirdropRadar AI current product, showcasing our ultima
 
 ## Sign up/Login
 
-Description
+Connecting to our platform is simple, as users can access it through Google, Twitter, or email.
 
-## #1 SCREEN
+<figure><img src=".gitbook/assets/Screenshot 2024-02-28 at 6.13.00 AM.png" alt=""><figcaption></figcaption></figure>
 
+## Connecting your web3 wallet

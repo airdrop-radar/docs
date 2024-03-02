@@ -1,5 +1,5 @@
 ---
-description: Official AidropRadar Whitepaper, last updated February 23, 2024
+description: Official AidropRadar AI documentation, last updated February 28, 2024
 ---
 
 # AirdropRadar AI
