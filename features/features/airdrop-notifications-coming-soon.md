@@ -1,2 +1,0 @@
-# Airdrop Notifications (coming soon)
-

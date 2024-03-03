@@ -9,10 +9,10 @@
 
 * [Features](features/features/README.md)
   * [Airdrop Finder](features/features/airdrop-finder.md)
-  * [Portfolio Tracking (coming soon)](features/features/portfolio-tracking-coming-soon.md)
-  * [Airdrop Claim Tracking (coming soon)](features/features/airdrop-claim-tracking-coming-soon.md)
+  * [Portfolio Tracking](features/features/portfolio-tracking.md)
+  * [Airdrop Claim Tracking](features/features/airdrop-claim-tracking.md)
   * [AirdropRadar Chat](features/features/airdropradar-chat.md)
-  * [Airdrop Notifications (coming soon)](features/features/airdrop-notifications-coming-soon.md)
+  * [Airdrop Notifications](features/features/airdrop-notifications.md)
   * [Replication](features/features/replication.md)
 
 ## AirdropRadar AI Coin
