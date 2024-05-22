@@ -1,10 +1,10 @@
 # Resources Kit
 
-These materials are the official branding resources for AirdropRadar AI, AirdropRadar, and $ARAI.
+These materials are the official branding resources for RadarDrop AI, RadarDrop, and $RDAI.
 
 ## Logos and Icons
 
-### AirdropRadar
+### RadarDrop
 
 <figure><img src="../.gitbook/assets/Logo-AirdropRadar.png" alt=""><figcaption></figcaption></figure>
 

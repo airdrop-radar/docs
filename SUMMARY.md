@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AirdropRadar AI](README.md)
+* [RadarDrop AI](README.md)
 * [Team](team.md)
 * [Roadmap](roadmap.md)
 * [Getting started](getting-started.md)
@@ -11,15 +11,15 @@
   * [Airdrop Finder](features/features/airdrop-finder.md)
   * [Portfolio Tracking](features/features/portfolio-tracking.md)
   * [Airdrop Claim Tracking](features/features/airdrop-claim-tracking.md)
-  * [AirdropRadar Chat](features/features/airdropradar-chat.md)
+  * [RadarDrop Chat](features/features/radardrop-chat.md)
   * [Airdrop Notifications](features/features/airdrop-notifications.md)
   * [Replication](features/features/replication.md)
 
-## AirdropRadar AI Coin
+## RadarDrop AI Token
 
-* [$ARAI](airdropradar-ai-coin/usdarai/README.md)
-  * [Presentation et tokenomics](airdropradar-ai-coin/usdarai/presentation-et-tokenomics.md)
-  * [Team Official Wallets](airdropradar-ai-coin/usdarai/team-official-wallets.md)
+* [$ARAI](radardrop-ai-token/usdarai/README.md)
+  * [Presentation et tokenomics](radardrop-ai-token/usdarai/presentation-et-tokenomics.md)
+  * [Team Official Wallets](radardrop-ai-token/usdarai/team-official-wallets.md)
 
 ## Important
 
@@ -28,6 +28,6 @@
 
 ***
 
-* [Twitter](https://x.com/airdropradar\_ai)
+* [Twitter](https://x.com/radardrop)
 * [Medium](https://medium.com/@airdropradar.ai)
 * [Github](https://github.com/airdrop-radar)
