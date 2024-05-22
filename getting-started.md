@@ -30,7 +30,7 @@ On the first modal you can choose additional options such as top-up of your wall
 
 <figure><img src=".gitbook/assets/Screenshot 2024-05-21 at 11.25.03 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screenshot 2024-05-21 at 11.25.29 PM.png" alt=""><figcaption><p>Here the top up option has been selected.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2024-05-21 at 11.25.29 PM (1).png" alt=""><figcaption><p>Here the top up option has been selected.</p></figcaption></figure>
 
 Once you've chosen your options, simply click on “Start replication”. A Metamask window should pop, asking you to approve the amount of $RADAI to be spent (no amount other than that calculated by us will be accepted).
 
