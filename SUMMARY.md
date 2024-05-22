@@ -17,9 +17,9 @@
 
 ## RadarDrop AI Token
 
-* [$ARAI](radardrop-ai-token/usdarai/README.md)
-  * [Presentation et tokenomics](radardrop-ai-token/usdarai/presentation-et-tokenomics.md)
-  * [Team Official Wallets](radardrop-ai-token/usdarai/team-official-wallets.md)
+* [$RDAI](radardrop-ai-token/usdrdai/README.md)
+  * [Presentation et tokenomics](radardrop-ai-token/usdrdai/presentation-et-tokenomics.md)
+  * [Team Official Wallets](radardrop-ai-token/usdrdai/team-official-wallets.md)
 
 ## Important
 
