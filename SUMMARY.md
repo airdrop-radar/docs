@@ -20,6 +20,7 @@
 * [$RDAI](radardrop-ai-token/usdrdai/README.md)
   * [Presentation et tokenomics](radardrop-ai-token/usdrdai/presentation-et-tokenomics.md)
   * [Team Official Wallets](radardrop-ai-token/usdrdai/team-official-wallets.md)
+* [RadarDrop Referral program](radardrop-ai-token/radardrop-referral-program.md)
 
 ## Important
 
