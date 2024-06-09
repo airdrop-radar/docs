@@ -4,7 +4,7 @@ description: Official RadarDrop AI documentation, last updated May 22, 2024
 
 # RadarDrop AI
 
-<figure><img src=".gitbook/assets/twitter-banner.png" alt=""><figcaption><p>Welcome to RadarDrop AI!</p></figcaption></figure>
+<figure><img src=".gitbook/assets/OG.jpg" alt=""><figcaption><p>Welcome to RadarDrop AI!</p></figcaption></figure>
 
 ## Introduction
 
