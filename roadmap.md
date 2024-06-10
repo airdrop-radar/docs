@@ -7,8 +7,8 @@ The developments described below on the roadmap represent what the RadarDrop tea
 ## Q1 2024
 
 * [x] Starting the development of RadarDrop products and testing blockchains links
-* [x] &#x20;Designing and developing the smart contracts for the $RDAI ERC-20 token to be deployed on the Ethereum Chain
-* [x] Debut with major features on one blockchain (Ethereum)
+* [x] Designing and developing the smart contracts for the $RDAI ERC-20 token to be deployed on the Ethereum Chain
+* [x] Started development of the project on Ethereum and EMV-compatible chains Radardrop AI&#x20;
 * [x] Releasing the teaser for the official launch of RadarDrop
 * [x] Doing KYC procedures of the RadarDrop Team members
 
@@ -22,7 +22,10 @@ The developments described below on the roadmap represent what the RadarDrop tea
 * [ ] Auditing our different smart contracts that interact with the Ethereum blockchain
 * [ ] Listing over CoinMarketCap, CoinGecko…
 * [x] Launch fully on-chain referral program
-* [ ] Add the ability to submit your ad and be displayed directly on the RadarDrop app
+* [ ] Add the ability to submit your own airdrop and be displayed directly on the RadarDrop app&#x20;
+* [ ] Advertise on RadarDrop app&#x20;
+
+
 
 ## Q3 2024
 
