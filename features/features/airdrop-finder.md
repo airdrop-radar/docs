@@ -1,5 +1,5 @@
 ---
-description: Find the best airdrops, effortlessly
+description: Find the best airdrops, effortlessly.
 ---
 
 # Airdrop Finder

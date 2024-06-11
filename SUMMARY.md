@@ -1,6 +1,6 @@
 # Table of contents
 
-* [RadarDrop AI](README.md)
+* [RadarDrop](README.md)
 * [Team](team.md)
 * [Roadmap](roadmap.md)
 * [Getting started](getting-started.md)
