@@ -2,7 +2,7 @@
 
 ## Jordan KARUK
 
-<figure><img src=".gitbook/assets/KARUK.jpg" alt="" width="188"><figcaption><p>Co-founder</p></figcaption></figure>
+<figure><img src=".gitbook/assets/KARUK.jpg" alt="" width="188"><figcaption><p><em><strong>Co-founder</strong></em></p></figcaption></figure>
 
 ## Louis Laurent
 
