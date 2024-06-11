@@ -10,14 +10,10 @@ description: >-
 
 Our referral program aims to reward those helping spreading the word about our platform and bringing new customers to use RadarDrop. We've designed a program to benefit people referring our platform.
 
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-10 at 2.55.33 AM.png" alt=""><figcaption></figcaption></figure>
 
+Personalized links
 
-## WAIT FOR UPDATED SCREEN
+Tier system
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-05-16 à 17.08.39 (1).png" alt=""><figcaption></figcaption></figure>
-
-Lien personnalisé
-
-Explication système de tier&#x20;
-
-Suivi du referral
+Tracked and fully on-chain referral
