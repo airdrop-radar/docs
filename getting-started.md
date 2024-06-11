@@ -2,7 +2,7 @@
 
 Here’s a walkthrough of RadarDrop current platform, showcasing our ultimate airdrop farming enhanced experience. We are constantly developing new features and capabilities, with exciting updates coming soon, stay tuned.
 
-## Default Page
+## Welcome Page
 
 When you launch the RadarDrop app, the default webpage is the Airdrop Finder which lists airdrops.
 
@@ -38,7 +38,8 @@ You will then be taken to the chat page for the selected airdrop using RadarDrop
 
 ## Our ultimate feature: Replication
 
-Once you've got all the information you need about the airdrop farm, you can choose to use our ultimate feature: Replication. This will enable you to reproduce the recommended farming actions on the chain with a single click for the airdrops for which it is available.
+Once you've got all the information you need about the airdrop farm, you can choose to use our ultimate feature: Replication.&#x20;
 
 <figure><img src=".gitbook/assets/RD_replicate_button.png" alt=""><figcaption></figcaption></figure>
 
+The [Replication](features/features/replication.md) will enable you to reproduce the recommended farming actions on the chain with a single click for the airdrops for which it is available.
