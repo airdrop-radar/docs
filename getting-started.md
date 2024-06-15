@@ -30,7 +30,7 @@ The [Airdrop Finder](features/features/airdrop-finder.md) will always guide you 
 
 ## RadarDrop Chat
 
-You will then be taken to the chat page for the selected airdrop using RadarDrop AI. You can ask it any questions you may have about this airdrop, and our LLM will give you the most accurate answers possible.
+You will then be taken to the chat page for the selected airdrop using RadarDrop AI. You can ask it any questions you may have about this airdrop, and our custom LLM tailored for airdrop farming will give you the most accurate answers possible.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-06-10 at 2.56.42 AM.png" alt=""><figcaption></figcaption></figure>
 

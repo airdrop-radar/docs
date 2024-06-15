@@ -2,7 +2,7 @@
 
 Radardrop will be continuously developed with new tools and features.
 
-The developments described below on the roadmap represent what the RadarDrop team has achieved and what it plans to do during the various periods mentioned, we cannot guarantee that they will be achieved.
+> _**The developments described below on the roadmap represent what the RadarDrop team has achieved and what it plans to do during the various periods mentioned, we cannot guarantee that they will be achieved.**_
 
 ## Q1 2024
 
