@@ -29,6 +29,7 @@
 
 ***
 
+* [Copy of Twitter](https://x.com/radardrop)
 * [Twitter](https://x.com/radardrop)
 * [Medium](https://medium.com/@airdropradar.ai)
 * [Github](https://github.com/airdrop-radar)
