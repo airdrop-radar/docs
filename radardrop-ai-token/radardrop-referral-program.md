@@ -18,10 +18,10 @@ You'll be able to modify your referral links and customize them as you wish.
 
 We've thought of a tier system to reward those users who are most active on RadarDrop and who share their referral link the most. The more you spread the word, the more you earn!
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-17 at 8.11.17 PM.png" alt=""><figcaption></figcaption></figure>
-
 **Tier 1**: **5% commission** in $RDAI
 
 **Tier 2**: **10% commission** in $RDAI - **15 referees**
 
 **Tier 3**: **15% commission** in $RDAI - **35 referees**
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-17 at 8.11.17 PM.png" alt=""><figcaption></figcaption></figure>
