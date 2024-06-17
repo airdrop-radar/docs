@@ -29,7 +29,7 @@
 
 ***
 
-* [Copy of Twitter](https://x.com/radardrop)
+* [Whitepaper](https://res.cloudinary.com/dkensloln/image/upload/v1718476650/static/foftacwd801erruc1bhx.pdf)
 * [Twitter](https://x.com/radardrop)
 * [Medium](https://medium.com/@airdropradar.ai)
 * [Github](https://github.com/airdrop-radar)
