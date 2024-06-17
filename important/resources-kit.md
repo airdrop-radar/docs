@@ -6,9 +6,19 @@ These materials are the official branding resources for RadarDrop, RadarDrop AI,
 
 ### RadarDrop
 
-<figure><img src="../.gitbook/assets/Squarelogo_radardrop.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Instagram post - 4.png" alt="" width="188"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/RD_logotype1.svg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/RD_logotype2.svg" alt=""><figcaption></figcaption></figure>
 
 ## Font and color
+
+### Font
+
+
+
+### Colors
 
 <figure><img src="../.gitbook/assets/Frame 2371.png" alt=""><figcaption><p>#2E97FA</p></figcaption></figure>
 

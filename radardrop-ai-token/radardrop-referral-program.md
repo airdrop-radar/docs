@@ -16,8 +16,6 @@ You'll be able to modify your referral links and customize them as you wish.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-14 at 1.45.04 AM.png" alt=""><figcaption><p>Here the referral code is "JORDAN"</p></figcaption></figure>
 
-Tracked and fully on-chain referral
-
 We've thought of a tier system to reward those users who are most active on RadarDrop and who share their referral link the most. The more you spread the word, the more you earn!
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-17 at 8.11.17 PM.png" alt=""><figcaption></figcaption></figure>
