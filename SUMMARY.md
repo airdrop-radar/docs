@@ -25,7 +25,7 @@
 ## Important
 
 * [FAQ - Frequently Asked Questions](important/faq-frequently-asked-questions.md)
-* [Resources Kit](important/resources-kit.md)
+* [Brand Kit](important/brand-kit.md)
 
 ***
 

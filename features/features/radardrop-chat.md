@@ -15,6 +15,10 @@ Channels
 
 Messages number (LLM tokens)&#x20;
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-06-17 at 10.42.39 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
 <figure><img src="../../.gitbook/assets/Screenshot 2024-06-10 at 2.56.42 AM (1).png" alt=""><figcaption></figcaption></figure>
 
 Replication (link to Replication)
