@@ -2,6 +2,8 @@
 
 These materials are the official branding resources for RadarDrop, RadarDrop AI, and $RDAI.
 
+Here's our [brandbook](https://res.cloudinary.com/dkensloln/image/upload/v1718978969/static/euvpm6ktzhgamez3sugl.pdf).
+
 ## Logos and Icons
 
 ### RadarDrop
@@ -33,6 +35,4 @@ These materials are the official branding resources for RadarDrop, RadarDrop AI,
 <figure><img src="../.gitbook/assets/color4.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/color5.png" alt=""><figcaption></figcaption></figure>
-
-## [Brandbook](https://res.cloudinary.com/dkensloln/image/upload/v1718978969/static/euvpm6ktzhgamez3sugl.pdf)
 
