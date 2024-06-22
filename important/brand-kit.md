@@ -10,7 +10,7 @@ Here's our [brandbook](https://res.cloudinary.com/dkensloln/image/upload/v171897
 
 <figure><img src="../.gitbook/assets/Instagram post - 0.png" alt="" width="188"><figcaption><p>RadarDrop default logo</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Instagram post - 8.png" alt="" width="188"><figcaption><p>RadarDrop variant logotype</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Instagram post - 8.png" alt="" width="188"><figcaption><p>RadarDrop variant logo</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/RD_logotype0.png" alt="" width="188"><figcaption><p>RadarDrop vertical logotype</p></figcaption></figure>
 
