@@ -4,7 +4,7 @@ description: (coming soon)
 
 # Airdrop Claim Tracking
 
-Ask RadarDrop AI what claimable airdrops you have farmed.&#x20;
+Ask RadarDrop AI which are the claimable airdrops you have farmed.&#x20;
 
 Our custom LLM will tell you which wallets are eligible for an airdrop and give you the procedure in detail so that you can claim your tokens with the right link and within the given deadline.
 
