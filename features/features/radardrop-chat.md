@@ -20,6 +20,8 @@ RadarDrop Chat works with a channel system. You can create a channel to chat wit
 * clicking directly on "Farm" on an airdrop card in the [Airdrop Finder](airdrop-finder.md) (which will create a **channel specific for the airdrop**)&#x20;
 * or by clicking on '+' (which will create a **general channel**).
 
+To delete a channel, simply click on the three small dots to the right of the top bar.
+
 <figure><img src="../../.gitbook/assets/Screenshot 2024-06-22 at 9.34.57 PM.png" alt=""><figcaption></figcaption></figure>
 
 Every time you open a RadarDrop Chat window, the top bar shows the project name, its badge (Potential/Claimable), and all the links our web scraper has collected on the web. Most often available: the project's Twitter account, website and whitepaper/doc. Finally, there's a button to mark this airdrop as farmed and the [Replication](replication.md) button if it's replicable.
@@ -36,6 +38,6 @@ Once you've used up all your chat messages, you can buy more by clicking on this
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-06-10 at 3.00.32 AM.png" alt=""><figcaption><p>You'll then see the modal plans</p></figcaption></figure>
 
-If the airdrop is replicable, you'll see the button "Replicate" on the top, meaning you can use RadarDrop's [Replication](replication.md) for this airdrop.
+If the airdrop is replicable, you'll see the "Replicate" button on the top, meaning you can use RadarDrop's [Replication](replication.md) for this airdrop.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-06-22 at 9.55.08 PM.png" alt=""><figcaption></figcaption></figure>

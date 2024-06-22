@@ -4,7 +4,7 @@ description: Our ultimate feature!
 
 # Replication
 
-## Our ultimate feature: Replication
+## Automated farming
 
 Tired of farming airdrops manually? \
 Select an airdrop and let us do it for you by reproducing the required on-chain farming actions, maximizing your chances of qualifying for this airdrop!
