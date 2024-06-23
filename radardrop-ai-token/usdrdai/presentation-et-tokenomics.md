@@ -1,8 +1,6 @@
 # Presentation et tokenomics
 
-
-
-### Tokenomics of the AirdropRadar AI Coin
+### Tokenomics of the RadarDrop AI ($RDAI) Token
 
 * Private A Round: 12,5% (100,000,000 $RDAI) - Funds allocated to the first round of private sales, targeting strategic investors.&#x20;
 
