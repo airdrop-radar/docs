@@ -40,4 +40,4 @@ Once you've used up all your chat messages, you can buy more by clicking on this
 
 If the airdrop is replicable, you'll see the "Replicate" button on the top, meaning you can use RadarDrop's [Replication](replication.md) for this airdrop.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-06-22 at 9.55.08 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-06-23 at 6.38.34 PM.png" alt=""><figcaption></figcaption></figure>
