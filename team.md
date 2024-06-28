@@ -6,7 +6,7 @@
 
 > Jordan has graduated from both the famous French University La Sorbonne with a Master degree and École 42, France's premier engineering school. He's been passionate about web3 for 7+ years and worked as a Unity developer for a MMORPG built on blockchains for the last two years. He made $50k+ in airdrops farming and was tired of the traditional way to farm so he decided to farm airdrops, smarter.
 
-## Louis Laurent
+## Louis LAURENT
 
 <figure><img src=".gitbook/assets/2.png" alt="" width="180"><figcaption><p><em><strong>Co-Founder &#x26;&#x26; CTO</strong></em></p></figcaption></figure>
 
