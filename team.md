@@ -14,7 +14,7 @@
 
 ## ARI Network
 
-<figure><img src=".gitbook/assets/3.png" alt="" width="180"><figcaption><p><em><strong>Chief Marketing Officer &#x26;&#x26;  Business developer</strong></em> </p></figcaption></figure>
+<figure><img src=".gitbook/assets/3.png" alt="" width="180"><figcaption><p><em><strong>Chief Marketing Officer &#x26;&#x26;  Business Developer</strong></em> </p></figcaption></figure>
 
 > Seasoned veterans with over a decade of combined experience in both Web2 and Web3 marketing. Having successfully exited a tech startup in the Web2 space before transitioning into scaling Web3 projects, collectively reaching a remarkable $1 billion (FDV) under their belts. Their relentless dedication ensures that the companies they nurture boast fundamentally robust products and exceptionally scalable marketing strategies.
 
