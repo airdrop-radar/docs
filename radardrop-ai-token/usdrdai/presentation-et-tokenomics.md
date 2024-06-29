@@ -48,7 +48,7 @@ description: >-
 
 
 
-* Strategic Round: 4% (100,000,000 $RDAI) - Funds allocated to onboard strategic partners to make the project sucessful.&#x20;
+* Strategic Round: 4% (40,000,000 $RDAI) - Funds allocated to onboard strategic partners to make the project successful.&#x20;
 
 
 
