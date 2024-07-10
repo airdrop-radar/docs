@@ -4,7 +4,7 @@ Radardrop will be continuously developed with new tools and features.
 
 > _**The developments described below on the roadmap represent what the RadarDrop team has achieved and what it plans to do during the various periods mentioned, we cannot guarantee that they will be achieved.**_
 
-## Q1 2024
+## Q2 2024
 
 * [x] Starting the development of RadarDrop products and testing blockchains links
 * [x] Designing and developing the smart contracts for the $RDAI ERC-20 token to be deployed on the Ethereum Chain
@@ -12,7 +12,7 @@ Radardrop will be continuously developed with new tools and features.
 * [x] Releasing the teaser for the official launch of RadarDrop
 * [x] Doing KYC procedures of the RadarDrop Team members
 
-## Q2 2024
+## Q3 2024
 
 * [x] Launching the online website with the basics about RadarDrop, releasing the presentation paper
 * [x] Launching the MVP first version of RadarDrop
@@ -27,7 +27,7 @@ Radardrop will be continuously developed with new tools and features.
 
 
 
-## Q3 2024
+## Q4 2024
 
 * [ ] Exploring the listing of the $RDAI token on some Tier 1 CEX&#x20;
 * [ ] Continuous development of our own LLM : adding best-performing AI model sources available on the market&#x20;
@@ -41,7 +41,7 @@ Radardrop will be continuously developed with new tools and features.
 * [ ] Airdrop farming video tutorials: add a section with detailed videos on how to make manual farming the best way possible&#x20;
 * [ ] Add value and visibility to the RadarDrop ecosystem by bringing partnerships
 
-## Q4 2024
+## Q1 2025
 
 * [ ] Add new blockchains/networks to our tools&#x20;
 * [ ] Improving AI models with machine learning to better predict market trends and give more accurate airdrop-related content.&#x20;
