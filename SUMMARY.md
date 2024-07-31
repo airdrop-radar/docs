@@ -14,6 +14,7 @@
   * [RadarDrop Chat](features/features/radardrop-chat.md)
   * [Airdrop Notifications](features/features/airdrop-notifications.md)
   * [Replication](features/features/replication.md)
+* [Farming points](features/farming-points.md)
 
 ## RadarDrop AI Token
 
