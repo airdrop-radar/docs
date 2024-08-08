@@ -32,7 +32,7 @@ description: >-
 
 
 
-* Team: 12% (120,000,000 $RDAI) - Funds dedicated for team, vested to ensure commitment and alignment with project success.
+* Team: 10% (100,000,000 $RDAI) - Funds dedicated for team, vested to ensure commitment and alignment with project success.
 
 
 
@@ -40,16 +40,12 @@ description: >-
 
 
 
-* Seed Round: 12% (120,000,000 $RDAI) - Funds allocated to the first round of private sales, targeting strategic investors.&#x20;
+* Seed Round: 14% (140,000,000 $RDAI) - Funds allocated to the first round of private sales, targeting strategic investors.&#x20;
 
 
 
-* Private Round: 11% (110,000,000 $RDAI) - Funds allocated to the private round, targeting strategic investors.&#x20;
+* Private Round/KOLs: 12% (120,000,000 $RDAI) - Funds allocated to the private round, targeting strategic investors.&#x20;
 
 
 
-* Strategic Round: 4% (40,000,000 $RDAI) - Funds allocated to onboard strategic partners to make the project successful.&#x20;
-
-
-
-* Public Round: 3% (30,000,000 $RDAI) - Funds reserved for the Token Generation Event of RadarDrop, where participants can contribute with ETH and receive $RDAI.
+* Public Round: 6% (60,000,000 $RDAI) - Funds reserved for the Token Generation Event of RadarDrop, where participants can contribute with ETH and receive $RDAI.
